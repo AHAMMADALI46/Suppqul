@@ -1,4 +1,4 @@
-# Suppqul
+# Supp_dm
 /*race in suppqual*/
 data race (keep= usubjid race);
 set raw.demowide;
